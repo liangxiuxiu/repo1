@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<conns>
-	<conn cluster="elasticsearch" jnlp="">
-
-			<address ip="127.0.0.1" port="9300"/>
-	</conn>
-</conns>

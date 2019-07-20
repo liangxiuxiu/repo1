@@ -1,2 +1,0 @@
-删除hanweb-j2cache.jar，低版本的相关jar
-删除resources目录下的j2cache.properties、j2cache-ehcache.xml
